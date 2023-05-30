@@ -15,7 +15,7 @@
     "@angular/core": "16.0.1",
     "@angular/forms": "16.0.1",
     "@angular/http": "7.2.16",
-    "@angular/platform-browser": "16.0.1",
+    "@angular/platform-browser": "16.0.3",
     "@angular/platform-browser-dynamic": "16.0.1",
     "@ionic-native/core": "5.36.0",
     "@ionic-native/splash-screen": "5.36.0",
